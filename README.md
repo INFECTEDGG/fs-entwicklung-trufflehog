@@ -8,7 +8,7 @@ Im Rahmen der Fallstudie werden die Funktionsweise, Einsatzmöglichkeiten und In
 
 ---
 
-## 🎯 Ziel des Projekts
+## Ziel des Projekts
 
 Ziel ist es, TruffleHog sowohl theoretisch als auch praktisch kennenzulernen und typische Einsatzszenarien für **Secret Scanning** innerhalb des Software Development Lifecycle (SDLC) zu untersuchen.
 
@@ -27,7 +27,7 @@ Dabei beschäftigen wir uns unter anderem mit folgenden Fragen:
 
 ---
 
-## 🔎 Was ist TruffleHog?
+## Was ist TruffleHog?
 
 **TruffleHog** ist ein Open-Source-Tool zur Erkennung von Zugangsdaten und anderen sensiblen Informationen.
 
@@ -56,7 +56,7 @@ Eine Besonderheit von TruffleHog ist, dass unterstützte Credentials nicht nur *
 
 ---
 
-## ⚠️ Warum Secret Scanning?
+## Warum Secret Scanning?
 
 Während der Softwareentwicklung können Zugangsdaten versehentlich im Quellcode landen.
 
@@ -94,7 +94,7 @@ Secret-Scanning-Tools wie TruffleHog sollen solche Probleme erkennen und möglic
 
 ---
 
-## 🛡️ TruffleHog im DevSecOps-Prozess
+## TruffleHog im DevSecOps-Prozess
 
 TruffleHog kann an unterschiedlichen Stellen des Software Development Lifecycle eingesetzt werden.
 
@@ -127,7 +127,7 @@ Dieses Vorgehen wird häufig dem Prinzip **Shift Left Security** zugeordnet.
 
 ---
 
-## 🧪 Inhalte der Fallstudie
+## Inhalte der Fallstudie
 
 Im Rahmen des Projekts betrachten wir verschiedene Funktionen von TruffleHog praktisch.
 
@@ -198,7 +198,7 @@ Dadurch lässt sich das Tool weitgehend unabhängig vom verwendeten Betriebssyst
 
 ---
 
-## 💻 Unterstützte Plattformen
+## Unterstützte Plattformen
 
 | Plattform | Installation |
 |---|---|
@@ -210,7 +210,7 @@ Eine detaillierte Installationsanleitung befindet sich unter [`docs/installation
 
 ---
 
-## 📁 Repository-Struktur
+## Repository-Struktur
 
 ```text
 .
@@ -232,7 +232,7 @@ Eine detaillierte Installationsanleitung befindet sich unter [`docs/installation
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Repository klonen
 
@@ -259,7 +259,7 @@ trufflehog filesystem .
 
 ---
 
-## 🧑‍💻 Verwendete Technologien und Konzepte
+## Verwendete Technologien und Konzepte
 
 - TruffleHog
 - Git
@@ -275,7 +275,7 @@ trufflehog filesystem .
 
 ---
 
-## 🔐 Sicherheitshinweis
+## Sicherheitshinweis
 
 > **Dieses Repository dient ausschließlich Lehr- und Demonstrationszwecken.**
 
@@ -287,7 +287,7 @@ Echte Zugangsdaten, API-Keys, Tokens oder andere produktive Secrets dürfen **ni
 
 ---
 
-## 🎓 Hochschulprojekt
+## Hochschulprojekt
 
 Dieses Repository wurde im Rahmen einer **Fallstudie im 4. Semester des Bachelorstudiengangs Wirtschaftsinformatik an der Hochschule Heilbronn** erstellt.
 
@@ -297,7 +297,7 @@ Ziel ist die praktische Auseinandersetzung mit einem modernen Entwicklungswerkze
 
 ---
 
-## 🔗 Weiterführende Informationen
+## Weiterführende Informationen
 
 - TruffleHog GitHub Repository: https://github.com/trufflesecurity/trufflehog
 - Truffle Security Dokumentation: https://trufflesecurity.com/docs/
@@ -305,7 +305,7 @@ Ziel ist die praktische Auseinandersetzung mit einem modernen Entwicklungswerkze
 
 ---
 
-## 📄 Lizenz
+## Lizenz
 
 Dieses Repository wurde zu Lehrzwecken im Rahmen einer Hochschulveranstaltung erstellt.
 

@@ -1,0 +1,14 @@
+detectors:
+  - name: snackoverflow-workshop-key
+    keywords:
+      - SNACK-KEY-
+    regex:
+      snack_key: '\bSNACK-KEY-[A-F0-9]{16}\b'
+    verify:
+      - endpoint: http://127.0.0.1:8765/verify
+        unsafe: true
+        successRanges:
+          - '200'
+        rotatedRanges:
+          - '401'
+          - '403'

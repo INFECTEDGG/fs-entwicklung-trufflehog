@@ -1,0 +1,6 @@
+detectors:
+  - name: snackoverflow-workshop-key
+    keywords:
+      - SNACK-KEY-
+    regex:
+      snack_key: '\bSNACK-KEY-[A-F0-9]{16}\b'

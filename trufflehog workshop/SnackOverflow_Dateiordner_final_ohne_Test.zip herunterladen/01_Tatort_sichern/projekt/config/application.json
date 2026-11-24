@@ -1,0 +1,1088 @@
+{
+  "application": "customer-portal",
+  "customer_resource": "kunde-17",
+  "host": "api.snackoverflow.invalid",
+  "revision": 2,
+  "features": [
+    {
+      "id": "feature-000",
+      "enabled": false,
+      "rollout": 0,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-001",
+      "enabled": true,
+      "rollout": 7,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-002",
+      "enabled": true,
+      "rollout": 14,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-003",
+      "enabled": true,
+      "rollout": 21,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-004",
+      "enabled": false,
+      "rollout": 28,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-005",
+      "enabled": true,
+      "rollout": 35,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-006",
+      "enabled": true,
+      "rollout": 42,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-007",
+      "enabled": true,
+      "rollout": 49,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-008",
+      "enabled": false,
+      "rollout": 56,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-009",
+      "enabled": true,
+      "rollout": 63,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-010",
+      "enabled": true,
+      "rollout": 70,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-011",
+      "enabled": true,
+      "rollout": 77,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-012",
+      "enabled": false,
+      "rollout": 84,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-013",
+      "enabled": true,
+      "rollout": 91,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-014",
+      "enabled": true,
+      "rollout": 98,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-015",
+      "enabled": true,
+      "rollout": 4,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-016",
+      "enabled": false,
+      "rollout": 11,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-017",
+      "enabled": true,
+      "rollout": 18,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-018",
+      "enabled": true,
+      "rollout": 25,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-019",
+      "enabled": true,
+      "rollout": 32,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-020",
+      "enabled": false,
+      "rollout": 39,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-021",
+      "enabled": true,
+      "rollout": 46,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-022",
+      "enabled": true,
+      "rollout": 53,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-023",
+      "enabled": true,
+      "rollout": 60,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-024",
+      "enabled": false,
+      "rollout": 67,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-025",
+      "enabled": true,
+      "rollout": 74,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-026",
+      "enabled": true,
+      "rollout": 81,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-027",
+      "enabled": true,
+      "rollout": 88,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-028",
+      "enabled": false,
+      "rollout": 95,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-029",
+      "enabled": true,
+      "rollout": 1,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-030",
+      "enabled": true,
+      "rollout": 8,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-031",
+      "enabled": true,
+      "rollout": 15,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-032",
+      "enabled": false,
+      "rollout": 22,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-033",
+      "enabled": true,
+      "rollout": 29,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-034",
+      "enabled": true,
+      "rollout": 36,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-035",
+      "enabled": true,
+      "rollout": 43,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-036",
+      "enabled": false,
+      "rollout": 50,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-037",
+      "enabled": true,
+      "rollout": 57,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-038",
+      "enabled": true,
+      "rollout": 64,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-039",
+      "enabled": true,
+      "rollout": 71,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-040",
+      "enabled": false,
+      "rollout": 78,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-041",
+      "enabled": true,
+      "rollout": 85,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-042",
+      "enabled": true,
+      "rollout": 92,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-043",
+      "enabled": true,
+      "rollout": 99,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-044",
+      "enabled": false,
+      "rollout": 5,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-045",
+      "enabled": true,
+      "rollout": 12,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-046",
+      "enabled": true,
+      "rollout": 19,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-047",
+      "enabled": true,
+      "rollout": 26,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-048",
+      "enabled": false,
+      "rollout": 33,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-049",
+      "enabled": true,
+      "rollout": 40,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-050",
+      "enabled": true,
+      "rollout": 47,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-051",
+      "enabled": true,
+      "rollout": 54,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-052",
+      "enabled": false,
+      "rollout": 61,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-053",
+      "enabled": true,
+      "rollout": 68,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-054",
+      "enabled": true,
+      "rollout": 75,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-055",
+      "enabled": true,
+      "rollout": 82,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-056",
+      "enabled": false,
+      "rollout": 89,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-057",
+      "enabled": true,
+      "rollout": 96,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-058",
+      "enabled": true,
+      "rollout": 2,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-059",
+      "enabled": true,
+      "rollout": 9,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-060",
+      "enabled": false,
+      "rollout": 16,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-061",
+      "enabled": true,
+      "rollout": 23,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-062",
+      "enabled": true,
+      "rollout": 30,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-063",
+      "enabled": true,
+      "rollout": 37,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-064",
+      "enabled": false,
+      "rollout": 44,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-065",
+      "enabled": true,
+      "rollout": 51,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-066",
+      "enabled": true,
+      "rollout": 58,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-067",
+      "enabled": true,
+      "rollout": 65,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-068",
+      "enabled": false,
+      "rollout": 72,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-069",
+      "enabled": true,
+      "rollout": 79,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-070",
+      "enabled": true,
+      "rollout": 86,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-071",
+      "enabled": true,
+      "rollout": 93,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-072",
+      "enabled": false,
+      "rollout": 100,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-073",
+      "enabled": true,
+      "rollout": 6,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-074",
+      "enabled": true,
+      "rollout": 13,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-075",
+      "enabled": true,
+      "rollout": 20,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-076",
+      "enabled": false,
+      "rollout": 27,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-077",
+      "enabled": true,
+      "rollout": 34,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-078",
+      "enabled": true,
+      "rollout": 41,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-079",
+      "enabled": true,
+      "rollout": 48,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-080",
+      "enabled": false,
+      "rollout": 55,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-081",
+      "enabled": true,
+      "rollout": 62,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-082",
+      "enabled": true,
+      "rollout": 69,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-083",
+      "enabled": true,
+      "rollout": 76,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-084",
+      "enabled": false,
+      "rollout": 83,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-085",
+      "enabled": true,
+      "rollout": 90,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-086",
+      "enabled": true,
+      "rollout": 97,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-087",
+      "enabled": true,
+      "rollout": 3,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-088",
+      "enabled": false,
+      "rollout": 10,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-089",
+      "enabled": true,
+      "rollout": 17,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-090",
+      "enabled": true,
+      "rollout": 24,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-091",
+      "enabled": true,
+      "rollout": 31,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-092",
+      "enabled": false,
+      "rollout": 38,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-093",
+      "enabled": true,
+      "rollout": 45,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-094",
+      "enabled": true,
+      "rollout": 52,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-095",
+      "enabled": true,
+      "rollout": 59,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-096",
+      "enabled": false,
+      "rollout": 66,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-097",
+      "enabled": true,
+      "rollout": 73,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-098",
+      "enabled": true,
+      "rollout": 80,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-099",
+      "enabled": true,
+      "rollout": 87,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-100",
+      "enabled": false,
+      "rollout": 94,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-101",
+      "enabled": true,
+      "rollout": 0,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-102",
+      "enabled": true,
+      "rollout": 7,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-103",
+      "enabled": true,
+      "rollout": 14,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-104",
+      "enabled": false,
+      "rollout": 21,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-105",
+      "enabled": true,
+      "rollout": 28,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-106",
+      "enabled": true,
+      "rollout": 35,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-107",
+      "enabled": true,
+      "rollout": 42,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-108",
+      "enabled": false,
+      "rollout": 49,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-109",
+      "enabled": true,
+      "rollout": 56,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-110",
+      "enabled": true,
+      "rollout": 63,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-111",
+      "enabled": true,
+      "rollout": 70,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-112",
+      "enabled": false,
+      "rollout": 77,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-113",
+      "enabled": true,
+      "rollout": 84,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-114",
+      "enabled": true,
+      "rollout": 91,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-115",
+      "enabled": true,
+      "rollout": 98,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-116",
+      "enabled": false,
+      "rollout": 4,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-117",
+      "enabled": true,
+      "rollout": 11,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-118",
+      "enabled": true,
+      "rollout": 18,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-119",
+      "enabled": true,
+      "rollout": 25,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-120",
+      "enabled": false,
+      "rollout": 32,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-121",
+      "enabled": true,
+      "rollout": 39,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-122",
+      "enabled": true,
+      "rollout": 46,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-123",
+      "enabled": true,
+      "rollout": 53,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-124",
+      "enabled": false,
+      "rollout": 60,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-125",
+      "enabled": true,
+      "rollout": 67,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-126",
+      "enabled": true,
+      "rollout": 74,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-127",
+      "enabled": true,
+      "rollout": 81,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-128",
+      "enabled": false,
+      "rollout": 88,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-129",
+      "enabled": true,
+      "rollout": 95,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-130",
+      "enabled": true,
+      "rollout": 1,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-131",
+      "enabled": true,
+      "rollout": 8,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-132",
+      "enabled": false,
+      "rollout": 15,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-133",
+      "enabled": true,
+      "rollout": 22,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-134",
+      "enabled": true,
+      "rollout": 29,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-135",
+      "enabled": true,
+      "rollout": 36,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-136",
+      "enabled": false,
+      "rollout": 43,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-137",
+      "enabled": true,
+      "rollout": 50,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-138",
+      "enabled": true,
+      "rollout": 57,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-139",
+      "enabled": true,
+      "rollout": 64,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-140",
+      "enabled": false,
+      "rollout": 71,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-141",
+      "enabled": true,
+      "rollout": 78,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-142",
+      "enabled": true,
+      "rollout": 85,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-143",
+      "enabled": true,
+      "rollout": 92,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-144",
+      "enabled": false,
+      "rollout": 99,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-145",
+      "enabled": true,
+      "rollout": 5,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-146",
+      "enabled": true,
+      "rollout": 12,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-147",
+      "enabled": true,
+      "rollout": 19,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-148",
+      "enabled": false,
+      "rollout": 26,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-149",
+      "enabled": true,
+      "rollout": 33,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-150",
+      "enabled": true,
+      "rollout": 40,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-151",
+      "enabled": true,
+      "rollout": 47,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-152",
+      "enabled": false,
+      "rollout": 54,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-153",
+      "enabled": true,
+      "rollout": 61,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-154",
+      "enabled": true,
+      "rollout": 68,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-155",
+      "enabled": true,
+      "rollout": 75,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-156",
+      "enabled": false,
+      "rollout": 82,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-157",
+      "enabled": true,
+      "rollout": 89,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-158",
+      "enabled": true,
+      "rollout": 96,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-159",
+      "enabled": true,
+      "rollout": 2,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-160",
+      "enabled": false,
+      "rollout": 9,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-161",
+      "enabled": true,
+      "rollout": 16,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-162",
+      "enabled": true,
+      "rollout": 23,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-163",
+      "enabled": true,
+      "rollout": 30,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-164",
+      "enabled": false,
+      "rollout": 37,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-165",
+      "enabled": true,
+      "rollout": 44,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-166",
+      "enabled": true,
+      "rollout": 51,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-167",
+      "enabled": true,
+      "rollout": 58,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-168",
+      "enabled": false,
+      "rollout": 65,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-169",
+      "enabled": true,
+      "rollout": 72,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-170",
+      "enabled": true,
+      "rollout": 79,
+      "owner": "team-8"
+    },
+    {
+      "id": "feature-171",
+      "enabled": true,
+      "rollout": 86,
+      "owner": "team-0"
+    },
+    {
+      "id": "feature-172",
+      "enabled": false,
+      "rollout": 93,
+      "owner": "team-1"
+    },
+    {
+      "id": "feature-173",
+      "enabled": true,
+      "rollout": 100,
+      "owner": "team-2"
+    },
+    {
+      "id": "feature-174",
+      "enabled": true,
+      "rollout": 6,
+      "owner": "team-3"
+    },
+    {
+      "id": "feature-175",
+      "enabled": true,
+      "rollout": 13,
+      "owner": "team-4"
+    },
+    {
+      "id": "feature-176",
+      "enabled": false,
+      "rollout": 20,
+      "owner": "team-5"
+    },
+    {
+      "id": "feature-177",
+      "enabled": true,
+      "rollout": 27,
+      "owner": "team-6"
+    },
+    {
+      "id": "feature-178",
+      "enabled": true,
+      "rollout": 34,
+      "owner": "team-7"
+    },
+    {
+      "id": "feature-179",
+      "enabled": true,
+      "rollout": 41,
+      "owner": "team-8"
+    }
+  ]
+}

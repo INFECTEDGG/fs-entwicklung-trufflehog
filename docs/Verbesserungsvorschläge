@@ -1,0 +1,25 @@
+Verbesserungsvorschläge Workshop
+
+Sammlung von Verbesserungsvorschlägen des Teams. Wird laufend ergänzt.
+
+Story anpassen: Die Story der Aufgaben z. B. an die CampusIT anpassen, mit einer kurzen Story, z. B.: „Kevin hat Scheiße gebaut. Ihr wurdet als SOC-Team angeheuert.“
+Aufgaben: Pre-Commit-Hook, Testdaten filtern und Boss-/End-Aufgabe.
+Klären: Machen die Studierenden als erste Aufgabe selbst den Fehler (sie sind Kevin und pushen Secrets), oder machen wir das vor?
+Pause mit Supply-Chain-Thema: Eventuell bei Max' Aufgaben eine Pause einbauen. Dort Shai-Hulud zeigen und danach direkt eine Aufgabe mit „Supply Chain Compromised“.
+Alternativ Multiple Choice: Am Ende ein paar Multiple-Choice-Aufgaben zu den Grundlagen.
+Klären, welche Website wir nutzen:
+Variante 1: Max' sehr gute, vibecodete Website. Sie ist sehr gut, aber man sieht deutlich, dass sie vibecodet ist.
+Variante 2: Ebenfalls vibecodet, aber mit weniger Funktionen und weniger offensichtlich.
+→ Mit dem Prof klären, wie die Bewertung ist.
+Max' Aufgaben überarbeiten (definitiv): Teilweise einfacher machen und inhaltlich richtigstellen.
+Reihenfolge der Aufgaben wie in der aktuellen Fall-Spezifikation:
+Normaler Filesystem-Scan
+Ergebnis auswerten: lesen und verstehen, was im Output steht
+Mit einem Befehl die Commits durchsuchen
+Warum reicht es nicht, das Secret per Commit zu löschen?
+Nur verifizierte Secrets anzeigen lassen
+Testdaten herausfiltern
+Pre-Commit-Hook (wie bei den anderen Vorschlägen)
+Punktesystem für Tipps (zwei Varianten):
+Variante A (4 Stufen): Tipp 1 kostenlos → Tipp 2 und Tipp 3 kosten Punkte → Tipp 4 zeigt die Lösung, das Level gibt dann keine Punkte.
+Variante B (3 Stufen): Tipp 1 kostenlos → Tipp 2 kostet Punkte → Tipp 3 zeigt die Lösung, das Level gibt dann keine Punkte.
